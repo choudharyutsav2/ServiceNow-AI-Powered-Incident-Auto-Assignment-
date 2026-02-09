@@ -37,3 +37,5 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python -m src.app
 ngrok http 5000
+
+
