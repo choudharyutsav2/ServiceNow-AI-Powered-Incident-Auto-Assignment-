@@ -39,3 +39,24 @@ python -m src.app
 ngrok http 5000
 
 
+## Test Cases
+## 1
+
+{
+  "short_description": "Cannot connect to WiFi",
+  "category": "Hardware",
+  "cmdb_ci": "",
+  "description": "I keep getting unable to join network message"
+}
+
+## 2
+
+{
+  "short_description": "Need password reset",
+  "category": "Inquiry / Help",
+  "cmdb_ci": "",
+  "description": "I cannot log in because I forgot my password"
+}
+
+
+
